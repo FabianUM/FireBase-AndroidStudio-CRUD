@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "31939848863",
+    "firebase_url": "https://fir-pcs-6734c-default-rtdb.firebaseio.com",
+    "project_id": "fir-pcs-6734c",
+    "storage_bucket": "fir-pcs-6734c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31939848863:android:24b1669f46271e017150aa",
+        "android_client_info": {
+          "package_name": "com.example.proys07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3X_TS0SBy3tZH5ninkxQRds3uBpmIWfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
